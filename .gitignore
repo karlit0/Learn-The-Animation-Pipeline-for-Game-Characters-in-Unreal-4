@@ -1,8 +1,9 @@
-CoOpGame/Binaries
-CoOpGame/DerivedDataCache
-CoOpGame/Intermediate
-CoOpGame/Saved
-CoOpGame/enc_temp_folder
+RawAssets
+Tutorial_3dMotive/Binaries
+Tutorial_3dMotive/DerivedDataCache
+Tutorial_3dMotive/Intermediate
+Tutorial_3dMotive/Saved
+Tutorial_3dMotive/enc_temp_folder
 .vscode
 .vs
 *.VC.db
